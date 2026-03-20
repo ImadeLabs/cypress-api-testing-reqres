@@ -2,7 +2,7 @@
 
 This project demonstrates API testing using Cypress.
 
-![Test Results](screenshots/api-tests-passed.png)
+![Test Results](screenshots/api-tests-passed.jpg)
 
 ## Test Coverage
 
