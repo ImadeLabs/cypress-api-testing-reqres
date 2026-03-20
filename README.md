@@ -2,6 +2,8 @@
 
 This project demonstrates API testing using Cypress.
 
+![Test Results](screenshots/api-tests-passed.png)
+
 ## Test Coverage
 
 - GET Users endpoint
